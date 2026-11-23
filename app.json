@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "PantryShare",
+    "slug": "pantryshare",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "pantryshare",
+    "ios": { "supportsTablet": true },
+    "plugins": ["expo-router", "expo-image-picker"]
+  }
+}
